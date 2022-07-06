@@ -3,8 +3,7 @@
   "description": "Telegram's best Open Source duplicate media removing bot. Create your Fork now.",
   "keywords": ["telegram", "best", "duplicate", "media", "removing", "robot"],
   "logo": "https://img.apksum.com/4c/com.duplicate.files.remover.duplicatefinderfiles/1.0/icon.png",
-  "website": "https://github.com/m4mallu/uniquify",
-  "repository": "https://github.com/m4mallu/uniquify",
+  "repository": "https://github.com/Pachukk/uniquify",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
